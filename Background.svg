@@ -1,0 +1,34 @@
+<svg width="768" height="1435" xmlns="http://www.w3.org/2000/svg">
+  <rect width="768" height="1435" fill="white"/>
+  <circle cx="384" cy="0" r="500" fill="#ffeb3b"/>
+  <path d="M0,0 Q384,500 768,0 L768,1435 L0,1435 Z" fill="#8bc34a"/>
+  <path d="M0,0 Q384,600 768,0 L768,1435 L0,1435 Z" fill="#e91e63" transform="rotate(12 384 717.5)"/>
+  <path d="M0,0 Q384,700 768,0 L768,1435 L0,1435 Z" fill="#ff5722" transform="rotate(24 384 717.5)"/>
+  <path d="M0,0 Q384,800 768,0 L768,1435 L0,1435 Z" fill="#3f51b5" transform="rotate(36 384 717.5)"/>
+  <path d="M0,0 Q384,900 768,0 L768,1435 L0,1435 Z" fill="#9e9e9e" transform="rotate(48 384 717.5)"/>
+  <path d="M0,0 Q384,1000 768,0 L768,1435 L0,1435 Z" fill="#795548" transform="rotate(60 384 717.5)"/>
+  <path d="M0,0 Q384,1100 768,0 L768,1435 L0,1435 Z" fill="#ffcdd2" transform="rotate(72 384 717.5)"/>
+  <path d="M0,0 Q384,1200 768,0 L768,1435 L0,1435 Z" fill="#03a9f4" transform="rotate(84 384 717.5)"/>
+  <path d="M0,0 Q384,1300 768,0 L768,1435 L0,1435 Z" fill="#ffeb3b" transform="rotate(96 384 717.5)"/>
+  <path d="M0,0 Q384,1400 768,0 L768,1435 L0,1435 Z" fill="#8bc34a" transform="rotate(108 384 717.5)"/>
+  <path d="M0,0 Q384,1500 768,0 L768,1435 L0,1435 Z" fill="#ff5722" transform="rotate(120 384 717.5)"/>
+  <path d="M0,0 Q384,1600 768,0 L768,1435 L0,1435 Z" fill="#e91e63" transform="rotate(132 384 717.5)"/>
+  <path d="M0,0 Q384,1700 768,0 L768,1435 L0,1435 Z" fill="#3f51b5" transform="rotate(144 384 717.5)"/>
+  <path d="M0,0 Q384,1800 768,0 L768,1435 L0,1435 Z" fill="#9e9e9e" transform="rotate(156 384 717.5)"/>
+  <path d="M0,0 Q384,1900 768,0 L768,1435 L0,1435 Z" fill="#795548" transform="rotate(168 384 717.5)"/>
+  <path d="M0,0 Q384,2000 768,0 L768,1435 L0,1435 Z" fill="#ffcdd2" transform="rotate(180 384 717.5)"/>
+  <path d="M0,0 Q384,2100 768,0 L768,1435 L0,1435 Z" fill="#03a9f4" transform="rotate(192 384 717.5)"/>
+  <path d="M0,0 Q384,2200 768,0 L768,1435 L0,1435 Z" fill="#ffeb3b" transform="rotate(204 384 717.5)"/>
+  <path d="M0,0 Q384,2300 768,0 L768,1435 L0,1435 Z" fill="#8bc34a" transform="rotate(216 384 717.5)"/>
+  <path d="M0,0 Q384,2400 768,0 L768,1435 L0,1435 Z" fill="#ff5722" transform="rotate(228 384 717.5)"/>
+  <path d="M0,0 Q384,2500 768,0 L768,1435 L0,1435 Z" fill="#e91e63" transform="rotate(240 384 717.5)"/>
+  <path d="M0,0 Q384,2600 768,0 L768,1435 L0,1435 Z" fill="#3f51b5" transform="rotate(252 384 717.5)"/>
+  <path d="M0,0 Q384,2700 768,0 L768,1435 L0,1435 Z" fill="#9e9e9e" transform="rotate(264 384 717.5)"/>
+  <path d="M0,0 Q384,2800 768,0 L768,1435 L0,1435 Z" fill="#795548" transform="rotate(276 384 717.5)"/>
+  <path d="M0,0 Q384,2900 768,0 L768,1435 L0,1435 Z" fill="#ffcdd2" transform="rotate(288 384 717.5)"/>
+  <path d="M0,0 Q384,3000 768,0 L768,1435 L0,1435 Z" fill="#03a9f4" transform="rotate(300 384 717.5)"/>
+  <path d="M0,0 Q384,3100 768,0 L768,1435 L0,1435 Z" fill="#ffeb3b" transform="rotate(312 384 717.5)"/>
+  <path d="M0,0 Q384,3200 768,0 L768,1435 L0,1435 Z" fill="#8bc34a" transform="rotate(324 384 717.5)"/>
+  <path d="M0,0 Q384,3300 768,0 L768,1435 L0,1435 Z" fill="#ff5722" transform="rotate(336 384 717.5)"/>
+  <path d="M0,0 Q384,3400 768,0 L768,1435 L0,1435 Z" fill="#e91e63" transform="rotate(348 384 717.5)"/>
+</svg>
